@@ -65,7 +65,7 @@ def index():
 #     print("注册")
 #     return render_template("long.html")
 
-#111111
+#11111199999
 if __name__ == '__main__':
     db.drop_all()
     db.create_all()
